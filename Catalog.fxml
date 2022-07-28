@@ -23,7 +23,7 @@
       </Text>
       <TextArea layoutX="324.0" layoutY="87.0" prefHeight="150.0" prefWidth="200.0" text="Body - desc" />
       <Text layoutX="331.0" layoutY="296.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Price" />
-      <Button layoutX="417.0" layoutY="279.0" mnemonicParsing="false" text="Add to Cart" />
+      <Button layoutX="417.0" layoutY="279.0" mnemonicParsing="false" text="Add to src.Cart" />
       <Text layoutX="84.0" layoutY="296.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Item ID" />
       <Button layoutX="545.0" layoutY="361.0" mnemonicParsing="false" text="Next" />
       <Button layoutX="14.0" layoutY="361.0" mnemonicParsing="false" text="Previous" />
@@ -33,7 +33,7 @@
             <Image url="@../unknown.png" />
          </image>
       </ImageView>
-      <Button layoutX="506.0" layoutY="18.0" mnemonicParsing="false" text="Cart">
+      <Button layoutX="506.0" layoutY="18.0" mnemonicParsing="false" text="src.Cart">
          <graphic>
             <ImageView fitHeight="31.0" fitWidth="36.0" pickOnBounds="true" preserveRatio="true" />
          </graphic>

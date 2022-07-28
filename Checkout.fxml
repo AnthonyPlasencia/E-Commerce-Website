@@ -36,7 +36,7 @@
             <Font size="18.0" />
          </font>
       </Text>
-      <Button layoutX="32.0" layoutY="472.0" mnemonicParsing="false" text="Go Back to Cart" />
+      <Button layoutX="32.0" layoutY="472.0" mnemonicParsing="false" text="Go Back to src.Cart" />
       <Text layoutX="357.0" layoutY="372.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Subtotal:" />
       <Text layoutX="357.0" layoutY="399.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shipping:" />
       <Text layoutX="480.0" layoutY="372.0" strokeType="OUTSIDE" strokeWidth="0.0" text="\$$$" />
