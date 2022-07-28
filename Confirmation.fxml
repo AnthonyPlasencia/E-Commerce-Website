@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="582.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="171.0" layoutY="68.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Thank you for Shopping with us!">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="76.0" fitWidth="100.0" layoutX="69.0" layoutY="189.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@unknown.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="171.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Confirmation Number: " />
+      <Text layoutX="326.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="12983719273" />
+      <Text layoutX="46.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Order Summary">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text layoutX="203.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Product title" />
+      <Text layoutX="203.0" layoutY="219.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Product ID" />
+      <Text layoutX="432.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Quantity" />
+      <Text layoutX="46.0" layoutY="304.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Customer Information">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <Text layoutX="46.0" layoutY="336.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shipping Address" />
+      <Text layoutX="46.0" layoutY="361.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" />
+      <Text layoutX="46.0" layoutY="378.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Street" />
+      <Text layoutX="46.0" layoutY="395.0" strokeType="OUTSIDE" strokeWidth="0.0" text="City" />
+      <Text layoutX="103.0" layoutY="395.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Zip" />
+      <Text layoutX="45.0" layoutY="426.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shipping Method" />
+      <Text layoutX="45.0" layoutY="454.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Shipping Info Here" />
+      <ImageView fitHeight="45.0" fitWidth="200.0" layoutX="273.0" layoutY="523.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@unknown.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
